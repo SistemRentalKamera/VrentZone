@@ -1,3 +1,5 @@
+Kamera.json
+
 [
   {"id": "CAM01", "nama": "Sony Alpha A7 III", "kategori": "Kamera Mirrorless", "harga_sewa": 250000, "stok": 3},
   {"id": "CAM02", "nama": "Canon EOS 80D", "kategori": "Kamera DSLR", "harga_sewa": 180000, "stok": 5},
