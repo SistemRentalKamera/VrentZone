@@ -1,0 +1,20 @@
+[
+    {
+        "username": "admin",
+        "password": "admin123",
+        "role": "admin",
+        "saldo": 0
+    },
+    {
+        "username": "user1",
+        "password": "user1234",
+        "role": "user",
+        "saldo": 500000
+    },
+    {
+        "username": "Reja",
+        "password": "reja123",
+        "role": "user",
+        "saldo": 0
+    }
+]
