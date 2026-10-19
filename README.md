@@ -65,5 +65,5 @@ SistemRentalKamera/
 
 ---
 
-tuan Lisensi & Tugas
+Lisensi & Tugas
 Proyek ini dibuat untuk memenuhi tugas **Project Akhir (PA) Praktikum Dasar-Dasar Pemrograman Python 2026** (Bobot 50% Nilai Akhir).
