@@ -44,14 +44,14 @@ Aplikasi manajemen rental kamera berbasis *Command Line Interface* (CLI) yang di
 ```text
 SistemRentalKamera/
   data/
-  ├── users.json              # Database akun (Admin & User)
-  ├── kamera.json             # Database inventaris kamera (Minimal 5 data awal)
-  └── transaksi.json          # Database riwayat transaksi (Persiapan 80%)
-├── README.md               # Dokumentasi utama proyek GitHub
-├── main.py                 # Entry point & navigasi menu utama
-├── auth.py                 # Modul autentikasi (Login & Registrasi)
-├── kamera.py               # Modul CRUD & manajemen inventaris kamera
-└── utils.py                # Helper pembersih layar & I/O JSON
+  ├── users.json             
+  ├── kamera.json             
+  └── transaksi.json        
+├── README.md              
+├── main.py        
+├── auth.py                
+├── kamera.py            
+└── utils.py              
 ```
 
 ---
